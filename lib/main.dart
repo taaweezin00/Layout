@@ -73,7 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
         image: "../assets/images/AHHH.jpg"),
     Student(
         name: "กฤตชวกร ชวลิตกิตติวงศ์",
-        id: "6439840033",
+        id: "6439840032",
         color: Colors.blue.shade100,
         image: "../assets/images/laputa.png"),
     Student(
